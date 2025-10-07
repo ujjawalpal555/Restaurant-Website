@@ -27,11 +27,27 @@ It showcases menu items, special dishes, and reservation options.
 - Restaurant Menu Section  
 - Reservation Form
 
+---
 
-## 📷 Add Screenshots
-- Take a few screenshots of your website (Home, Menu, About, etc.).
-- Save them in a folder like `assets/screenshots/`.
-- Reference them in your README using:
-```markdown
-![Home Page](assets/screenshots/home.png)
+## 💻 How to Use
+1. Clone or download this repository.  
+2. Open the `index.html` file in your browser.  
+3. Explore the website pages and features.  
+
+---
+
+## 🚀 Future Improvements
+- Add backend for online reservations  
+- Connect with Google Maps for location display  
+- Include dark/light mode  
+- Add animation effects for menu and hero sections  
+
+---
+
+## 👨‍💻 Author
+**Ujjawal Pal**  
+Aspiring Full Stack Python Developer  
+📧 [Add your email or LinkedIn here]  
+
+---
 
