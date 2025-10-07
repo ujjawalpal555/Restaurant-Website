@@ -46,8 +46,6 @@ It showcases menu items, special dishes, and reservation options.
 
 ## 👨‍💻 Author
 **Ujjawal Pal**  
-Aspiring Full Stack Python Developer  
-📧 [Add your email or LinkedIn here]  
-
+  
 ---
 
